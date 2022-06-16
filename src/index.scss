@@ -1,0 +1,6 @@
+// include customized bootstrap
+@import './scss/config';
+// include all of Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+.mw-sx { max-width: 800px;}

@@ -1,8 +1,9 @@
+import BSButton from "./BSButton";
 
 function App() {
   return (
     <div className="App">
-      App
+      <BSButton />
     </div>
   );
 }
